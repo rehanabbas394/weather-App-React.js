@@ -38,5 +38,9 @@
 }
 
 .read-the-docs {
-  color: #888;
+  color: #889;
+
+}
+.read-the-docs:hover {
+  color: #646cff;
 }
